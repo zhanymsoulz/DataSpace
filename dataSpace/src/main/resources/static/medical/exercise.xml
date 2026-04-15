@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exercises>
+  <patient id="P001">
+    <disease_id>DI001</disease_id>
+    <morning>30</morning>
+    <afternoon>20</afternoon>
+    <evening>15</evening>
+  </patient>
+  <patient id="P002">
+    <disease_id>DI002</disease_id>
+    <morning>25</morning>
+    <afternoon>10</afternoon>
+    <evening>20</evening>
+  </patient>
+  <patient id="P003">
+    <disease_id>DI001</disease_id>
+    <morning>40</morning>
+    <afternoon>0</afternoon>
+    <evening>30</evening>
+  </patient>
+  <patient id="P004">
+    <disease_id>DI003</disease_id>
+    <morning>20</morning>
+    <afternoon>15</afternoon>
+    <evening>10</evening>
+  </patient>
+  <patient id="P005">
+    <disease_id>DI002</disease_id>
+    <morning>35</morning>
+    <afternoon>25</afternoon>
+    <evening>20</evening>
+  </patient>
+</exercises>

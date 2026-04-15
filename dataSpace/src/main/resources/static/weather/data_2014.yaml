@@ -1,0 +1,68 @@
+waterData:
+  - date: 2014-01-01
+    drinkable_liters: 1200000
+    non_drinkable_liters: 800000
+  - date: 2014-01-02
+    drinkable_liters: 1198000
+    non_drinkable_liters: 805000
+  - date: 2014-01-03
+    drinkable_liters: 1195000
+    non_drinkable_liters: 810000
+  - date: 2014-01-04
+    drinkable_liters: 1197000
+    non_drinkable_liters: 808000
+  - date: 2014-01-05
+    drinkable_liters: 1199000
+    non_drinkable_liters: 806000
+  - date: 2014-01-06
+    drinkable_liters: 1201000
+    non_drinkable_liters: 804000
+  - date: 2014-01-07
+    drinkable_liters: 1203000
+    non_drinkable_liters: 802000
+  - date: 2014-01-08
+    drinkable_liters: 1202000
+    non_drinkable_liters: 803000
+  - date: 2014-01-09
+    drinkable_liters: 1200000
+    non_drinkable_liters: 805000
+  - date: 2014-01-10
+    drinkable_liters: 1198000
+    non_drinkable_liters: 807000
+  - date: 2014-01-11
+    drinkable_liters: 1196000
+    non_drinkable_liters: 809000
+  - date: 2014-01-12
+    drinkable_liters: 1194000
+    non_drinkable_liters: 811000
+  - date: 2014-01-13
+    drinkable_liters: 1192000
+    non_drinkable_liters: 813000
+  - date: 2014-01-14
+    drinkable_liters: 1190000
+    non_drinkable_liters: 815000
+  - date: 2014-01-15
+    drinkable_liters: 1188000
+    non_drinkable_liters: 817000
+  - date: 2014-01-16
+    drinkable_liters: 1186000
+    non_drinkable_liters: 819000
+  - date: 2014-01-17
+    drinkable_liters: 1184000
+    non_drinkable_liters: 821000
+  - date: 2014-01-18
+    drinkable_liters: 1182000
+    non_drinkable_liters: 823000
+  - date: 2014-01-19
+    drinkable_liters: 1180000
+    non_drinkable_liters: 825000
+  - date: 2014-01-20
+    drinkable_liters: 1178000
+    non_drinkable_liters: 827000
+  # ...repeat similar pattern for each day up to 2014-06-30...
+  - date: 2014-06-29
+    drinkable_liters: 1102000
+    non_drinkable_liters: 900000
+  - date: 2014-06-30
+    drinkable_liters: 1100000
+    non_drinkable_liters: 902000
